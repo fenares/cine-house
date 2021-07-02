@@ -5,21 +5,7 @@ function adicionarFilme(titulo, duracao, atores, anoDoLancamento, emCartaz) {
     codigo: catalogo.length + 1,
     titulo,
     duracao,
-    atores,
-    anoDoLancamento,
-    emCartaz,
-  };
-
-  catalogo.push(novoFilme);
-  console.log("Filme adicionado com sucesso!");
-}
-
-function adicionarFilme(titulo, duracao, atores, anoDoLancamento, emCartaz) {
-  const novoFilme = {
-    codigo: catalogo.length + 1,
-    titulo,
-    duracao,
-    atores,
+    atores, 
     anoDoLancamento,
     emCartaz,
   };
