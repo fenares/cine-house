@@ -13,6 +13,10 @@ function adicionarFilme(titulo, duracao, atores, anoDoLancamento, emCartaz) {
   catalogo.push(novoFilme);
   console.log("Filme adicionado com sucesso!");
   console.log("Filme adicionado com sucesso!");
+  console.log("Filme adicionado com sucesso!");
+  console.log("Filme adicionado com sucesso!");
+  console.log("Filme adicionado com sucesso!");
+  console.log("Filme adicionado com sucesso!");
 }
 
 function buscarFilme(codigo) {
